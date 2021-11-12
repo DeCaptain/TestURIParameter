@@ -1,0 +1,13 @@
+c:\users\useme\documents\visual studio 2013\Projects\TestURIParameters\TestURIParameters\bin\Debug\TestURIParameters.exe.config
+c:\users\useme\documents\visual studio 2013\Projects\TestURIParameters\TestURIParameters\bin\Debug\TestURIParameters.exe
+c:\users\useme\documents\visual studio 2013\Projects\TestURIParameters\TestURIParameters\bin\Debug\TestURIParameters.pdb
+c:\users\useme\documents\visual studio 2013\Projects\TestURIParameters\TestURIParameters\bin\Debug\TestURIParameters.xml
+c:\users\useme\documents\visual studio 2013\Projects\TestURIParameters\TestURIParameters\obj\Debug\TestURIParameters.Resources.resources
+c:\users\useme\documents\visual studio 2013\Projects\TestURIParameters\TestURIParameters\obj\Debug\TestURIParameters.vbproj.GenerateResource.Cache
+c:\users\useme\documents\visual studio 2013\Projects\TestURIParameters\TestURIParameters\obj\Debug\TestURIParameters.exe
+c:\users\useme\documents\visual studio 2013\Projects\TestURIParameters\TestURIParameters\obj\Debug\TestURIParameters.xml
+c:\users\useme\documents\visual studio 2013\Projects\TestURIParameters\TestURIParameters\obj\Debug\TestURIParameters.pdb
+c:\users\useme\documents\visual studio 2013\Projects\TestURIParameters\TestURIParameters\bin\Debug\TestURIParameters.exe.manifest
+c:\users\useme\documents\visual studio 2013\Projects\TestURIParameters\TestURIParameters\bin\Debug\TestURIParameters.application
+c:\users\useme\documents\visual studio 2013\Projects\TestURIParameters\TestURIParameters\obj\Debug\TestURIParameters.exe.manifest
+c:\users\useme\documents\visual studio 2013\Projects\TestURIParameters\TestURIParameters\obj\Debug\TestURIParameters.application
