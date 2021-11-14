@@ -19,3 +19,13 @@ C:\github\githubTest\elkirko_45_samples\elkirko.Generics\bin\Debug\EntityFramewo
 C:\github\githubTest\elkirko_45_samples\elkirko.Generics\bin\Debug\EntityFramework.SqlServer.dll
 C:\github\githubTest\elkirko_45_samples\elkirko.Generics\bin\Debug\EntityFramework.xml
 C:\github\githubTest\elkirko_45_samples\elkirko.Generics\bin\Debug\EntityFramework.SqlServer.xml
+C:\github\githubTest\elkirko_45_samples\ekirko_Generics\elkirko.Generics\bin\Debug\elkirko.Generics.exe.config
+C:\github\githubTest\elkirko_45_samples\ekirko_Generics\elkirko.Generics\obj\Debug\elkirko.Generics.exe
+C:\github\githubTest\elkirko_45_samples\ekirko_Generics\elkirko.Generics\obj\Debug\elkirko.Generics.pdb
+C:\github\githubTest\elkirko_45_samples\ekirko_Generics\elkirko.Generics\bin\Debug\elkirko.Generics.exe
+C:\github\githubTest\elkirko_45_samples\ekirko_Generics\elkirko.Generics\bin\Debug\elkirko.Generics.pdb
+C:\github\githubTest\elkirko_45_samples\ekirko_Generics\elkirko.Generics\bin\Debug\EntityFramework.dll
+C:\github\githubTest\elkirko_45_samples\ekirko_Generics\elkirko.Generics\bin\Debug\EntityFramework.SqlServer.dll
+C:\github\githubTest\elkirko_45_samples\ekirko_Generics\elkirko.Generics\bin\Debug\EntityFramework.xml
+C:\github\githubTest\elkirko_45_samples\ekirko_Generics\elkirko.Generics\bin\Debug\EntityFramework.SqlServer.xml
+C:\github\githubTest\elkirko_45_samples\ekirko_Generics\elkirko.Generics\obj\Debug\elkirko.Generic_Entity_CRUD.csprojResolveAssemblyReference.cache

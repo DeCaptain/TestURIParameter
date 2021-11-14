@@ -10,7 +10,9 @@ namespace elkirko.Generics
     {
         static void Main(string[] args)
         {
+            // run this the first time, setup your connection first in app.config
             //createDB();
+           
 
             var empRep = new SQLRepository<Employee>(new StorageAppDBContext());            
             
@@ -18,13 +20,29 @@ namespace elkirko.Generics
 
             AddEmployees(empRep);
             GetEmployeeById(empRep);
+            WriteAllToConsole(empRep );
 
             var orgRep = new SQLRepository<Organization>(new StorageAppDBContext());
             AddOrganizations(orgRep);
             GetOrganizationById(orgRep);
-
+            WriteAllToConsole(orgRep);
             Console.Read();
         }
+
+
+        private static void WriteAllToConsole(IReadRepository <IEntity> empRep)
+        {
+            var items = empRep.GetAll();
+
+            foreach (var item in items)
+            {
+                Console.WriteLine( item);
+                
+            }
+        }
+
+
+
 
         private static void createDB()
         {
